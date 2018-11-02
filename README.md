@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Nebula
 =======
 # Nebula
@@ -9,3 +10,6 @@ Currently has a station, capital ship, large ship, and medium ship, as well as a
 ![picture of capital ship in game](https://github.com/RatMoleRat/Nebula/blob/master/images/CapitalShipFiring.PNG)
 ![picture of collision mesh for the capital ship](https://github.com/RatMoleRat/Nebula/blob/master/images/CollisionScreenshot3.PNG)
 >>>>>>> 020d8ee6b95ffd66f53471cdd896e7b551005fab
+=======
+# Nebula
+>>>>>>> 6eb7092369edc9c4a4ecf228c213be9886f5768e

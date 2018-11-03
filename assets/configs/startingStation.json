@@ -1,6 +1,6 @@
 {
   "hull": "Nebula:nebulaStation",
-  "items": "",
+  "items": "Nebula:clawGun",
 
   "guard":
   {

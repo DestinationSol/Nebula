@@ -1,0 +1,36 @@
+{
+  "claw": {
+    "dmg": 15,
+    "dmgType": "bullet",
+    "spdLen": 6,
+
+    "tex": "Nebula:claw",
+    "texSz": 0.25,
+
+    "collisionEffect": {
+      "effectFile": "core:knockBack",
+      "size": 0.15,
+      "tex": "core:fire",
+      "tint": "120 210 90"
+    },
+
+    "collisionSound": "core:rocketCollision"
+  },
+  "explosiveClaw": {
+    "dmg": 24,
+    "dmgType": "explosion",
+    "spdLen": 6,
+
+    "tex": "Nebula:explosiveClaw",
+    "texSz": 0.25,
+
+    "collisionEffect": {
+      "effectFile": "core:knockBack",
+      "size": 0.20,
+      "tex": "core:fire",
+      "tint": "120 210 90"
+    },
+
+    "collisionSound": "core:rocketCollision"
+  }
+}

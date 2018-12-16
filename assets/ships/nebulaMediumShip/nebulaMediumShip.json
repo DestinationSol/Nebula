@@ -9,7 +9,7 @@
     "rechargeTime": 14
   },
   "displayName": "Hermit",
-  "engine": "Nebula:nebulaEngine",
+  "engine": "nebula:nebulaEngine",
   "gunSlots": [
     {
       "position": "0.9 .25",

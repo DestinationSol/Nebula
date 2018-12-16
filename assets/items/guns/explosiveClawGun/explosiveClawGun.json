@@ -5,7 +5,7 @@
   "timeBetweenShots": 1.5,
   "reloadTime": 1.5,
   "price": 200,
-  "clipName": "Nebula:explosiveClawClip",
+  "clipName": "nebula:explosiveClawClip",
   "gunLength": 0.15,
   "texLenPerc": 0.9,
   "displayName": "Improved Claw Gun",

@@ -8,7 +8,7 @@
     "rechargeTime": 20
   },
   "displayName": "King",
-  "engine": "Nebula:nebulaBigEngine",
+  "engine": "nebula:nebulaBigEngine",
   "gunSlots": [
     {
       "position": "0.9 .5",

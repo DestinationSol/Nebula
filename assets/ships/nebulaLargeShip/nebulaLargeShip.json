@@ -9,7 +9,7 @@
     "rechargeTime": 20
   },
   "displayName": "Horseshoe",
-  "engine": "Nebula:nebulaEngine",
+  "engine": "nebula:nebulaEngine",
   "gunSlots": [
     {
       "position": "0.9 .45",

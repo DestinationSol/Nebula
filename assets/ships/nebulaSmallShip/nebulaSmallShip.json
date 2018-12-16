@@ -9,7 +9,7 @@
     "rechargeTime": 20
   },
   "displayName": "Fiddler",
-  "engine": "Nebula:nebulaEngine",
+  "engine": "nebula:nebulaEngine",
   "gunSlots": [
     {
       "position": "0.5 0.3",

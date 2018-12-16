@@ -4,7 +4,7 @@
     "dmgType": "bullet",
     "spdLen": 6,
 
-    "tex": "Nebula:claw",
+    "tex": "nebula:claw",
     "texSz": 0.25,
 
     "collisionEffect": {
@@ -21,7 +21,7 @@
     "dmgType": "explosion",
     "spdLen": 6,
 
-    "tex": "Nebula:explosiveClaw",
+    "tex": "nebula:explosiveClaw",
     "texSz": 0.25,
 
     "collisionEffect": {

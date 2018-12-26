@@ -2,7 +2,7 @@
   "claw": {
     "dmg": 15,
     "dmgType": "bullet",
-    "spdLen": 6,
+    "speed": 6,
 
     "tex": "nebula:claw",
     "texSz": 0.25,
@@ -19,7 +19,7 @@
   "explosiveClaw": {
     "dmg": 24,
     "dmgType": "explosion",
-    "spdLen": 6,
+    "speed": 6,
 
     "tex": "nebula:explosiveClaw",
     "texSz": 0.25,
